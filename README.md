@@ -1,21 +1,29 @@
 # Hi, I'm Control 👋
 
-Software developer & open-source contributor.
+**Software developer & open-source contributor**
+
+[![GitHub followers](https://img.shields.io/github/followers/onlygummy-control?label=Follow&style=social)](https://github.com/onlygummy-control)
+[![GitHub stars](https://img.shields.io/github/stars/onlygummy-control?affiliations=OWNER&style=social)](https://github.com/onlygummy-control)
 
 ## About
-- 🌱 Currently building my portfolio and contributing to open source
+- 🌱 Building my portfolio and contributing to open source
 - 🔭 Interested in: automation, developer tools, and web apps
-- 📫 Reach me via GitHub
+- 🤝 Open to collaboration on beginner-friendly OSS issues
 
 ## Tech Stack
-- Languages: Python, JavaScript/TypeScript, Go
-- Tools: Git, GitHub Actions, Docker, Linux
+- **Languages:** Python, JavaScript/TypeScript, Go
+- **Tools:** Git, GitHub Actions, Docker, Linux
 
 ## Projects
-- _Coming soon_
+| Project | Description | Stars |
+|---|---|---|
+| _Coming soon_ | _First showcase project_ | — |
 
 ## Contributions
-- _Coming soon_
+- _Coming soon_ — first merged PR
+
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=onlygummy-control&show_icons=true&theme=default&hide_border=true)
 
 ---
 *This profile is a work in progress.*
