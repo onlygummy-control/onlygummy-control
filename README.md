@@ -17,7 +17,7 @@
 ## Projects
 | Project | Description | Stars |
 |---|---|---|
-| _Coming soon_ | _First showcase project_ | — |
+| [mdtoc](https://github.com/onlygummy-control/mdtoc) | Generate a Markdown table of contents from headings (Python CLI) | ⭐ |
 
 ## Contributions
 - _Coming soon_ — first merged PR
